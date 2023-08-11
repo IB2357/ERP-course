@@ -15,7 +15,7 @@ This repo is assigned for my homework and projects in this course.
 
 <center><em>Homework:</em></center>
 
-- [project 1](#)
+- [solid-principle](Lectures/L2/solid-principle.md)
 
 </details>
 
