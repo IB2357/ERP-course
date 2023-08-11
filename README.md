@@ -1,5 +1,4 @@
 # FCIT-2024-2023 Projects
-hi B
 
 This repo is assigned for my homework and projects in this course.
 
@@ -12,11 +11,11 @@ This repo is assigned for my homework and projects in this course.
 
 <center><em>In Class:</em></center>
 
-- [project 1](README.md)
+- [project 1](#)
 
 <center><em>Homework:</em></center>
 
-- [project 1](t.py)
+- [project 1](#)
 
 </details>
 
