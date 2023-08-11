@@ -15,6 +15,7 @@ This repo is assigned for my homework and projects in this course.
 
 <center><em>Homework:</em></center>
 
+- [binary-search-algorithm](Lectures/L2/binary-search-algorithm/binary-search-algorithm.md)
 - [solid-principle](Lectures/L2/solid-principle.md)
 
 </details>
