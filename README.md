@@ -17,7 +17,7 @@ This repo is assigned for my homework and projects in this course.
 
 - [binary-search-algorithm](Lectures/L2/binary-search-algorithm/binary-search-algorithm.md)
 - [solid-principle](Lectures/L2/solid-principle.md)
-
+- [lambda](Lectures/L2/lambda.py)
 </details>
 
 
